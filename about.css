@@ -1,0 +1,52 @@
+*
+.container
+{
+	margin: 4% auto;
+
+}
+#icon
+{
+	max-width: 200px;
+	margin: 1% auto;
+}
+footer
+{
+	width: 100%;
+	background-color: #5E4485;
+	padding: 3%;
+	color: #fff;
+}
+h2
+{
+	font-size: 1.5cm;
+	font-family: sans-serif;
+	color: #800000
+}
+h4
+{
+	font-size: .3cm;
+	font-family: sans-serif;
+}
+.card-header
+{
+	font-size: 0.4cm;
+	font-family: sans-serif;
+	color: #000000
+}
+h5
+{
+	font-size: 0.3cm;
+	font-family: sans-serif;
+	color: #000000
+}
+p
+{
+font-size: 0.3cm;
+	font-family: sans-serif;
+	color: #800000	
+}
+#icon2
+{
+max-width: 8px;
+	margin: 1% auto;	
+}

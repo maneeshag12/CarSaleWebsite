@@ -1,0 +1,36 @@
+body
+{
+	background-image: url(img/img10.jpg);
+	background-size:cover;
+}
+hr
+{
+	background: white;
+}
+.contact-form
+{
+	background: rgba(0,0,0,  .6);
+	color: white;
+	margin-top:100px;
+	padding:20px;
+	box-shadow: 0px 0px 10px 3px grey;
+
+}
+.p
+{
+font-size: 18px;
+color: white;
+font-family: sans-serif;
+}
+h2
+{
+	font-size: 1cm;
+	font-family: Times New Roman;
+	color: #1C0054
+}
+h5
+{
+	font-size: 0.5cm;
+	font-family: Times New Roman;
+	color: #000000
+}
